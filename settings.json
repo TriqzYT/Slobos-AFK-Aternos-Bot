@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "Server 24/7",
   "bot-account": {
     "username": "Server 24/7",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Dan-Cobblemon.aternos.me",
